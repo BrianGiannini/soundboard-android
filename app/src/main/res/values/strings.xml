@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Boîte à Philippe</string>
+    <string name="action_settings">Settings</string>
+    <string name="insult1_1">Philippe !</string>
+    <string name="insult1_2">Je sais où tu te caches</string>
+    <string name="insult2_1">Ta gueule !</string>
+    <string name="insult1_3">Viens ici que \n je te bute enculé</string>
+    <string name="insult1_4">Salaud !</string>
+    <string name="insult2_2">Viens ici  \n sale enculé</string>
+    <string name="photoDescription"> character photo</string>
+</resources>

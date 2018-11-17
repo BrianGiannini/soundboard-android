@@ -1,0 +1,14 @@
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+gradle/wrapper/gradle-wrapper.properties
+/app/app.iml
+/BoitePhilippe.iml
+/gradle.properties
+/BoitePhilippe - Open.iml
+/gradle/wrapper/gradle-wrapper.jar
+/gradlew.bat
+/gradlew
+.gradle
